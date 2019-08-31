@@ -1,2 +1,4 @@
-# portfolio-3d
-My AR/VR Game and 3D Art portfolio.
+# 3D and Game Portfolio
+
+
+[Portfolio can be found here](https://lucyogdendoyle.com/)
